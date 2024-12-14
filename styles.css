@@ -1,0 +1,26 @@
+.title {
+    color: #007bff;
+    text-align: center;
+}
+
+.subtitle {
+    color: #ff00dd;
+    text-align: center;
+}
+
+#btn {
+    padding: 10px 20px;
+    background-color: rgb(0, 255, 255);
+    color: black;
+    border: none;
+    cursor: pointer;
+    border-radius: 9px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#btn:hover {
+    background-color: rgb(171, 0, 171);
+    transition: all 500ms;
+}
